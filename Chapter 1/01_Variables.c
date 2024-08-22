@@ -2,6 +2,6 @@
 int main(){
     int a; //variable declaration
     a = 6;
-    printf("The output of the program is: %d", a); //%d as an integer return a
+    printf("The output of the program is: %d", a); //%d means as an integer return a
     return 0;
 }
