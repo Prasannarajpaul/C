@@ -1,0 +1,11 @@
+Chapter -  Practice Set
+
+1. Write a C program to calculate area of a rectangle.
+    a. Using hard coded inputs
+    b. Using inputs supplied by the user
+
+2. Calculate the area of a circle and modify tha same program to calculate the volume of a cylinder given its radius and height.
+
+3. Write a program to convert the Celsius (Centigrade degrees temperature to Fahrenheit)
+
+4. Write a program to calculate simple interest for a set of values representing prinvipal, number of years and rate of interest.
