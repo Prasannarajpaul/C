@@ -10,3 +10,4 @@ Navigate through each .c file and learn something new
 
 Each comments are done by me with proper placements in the codes and in the respective Chapters
 
+Note: Every Chapter has problems.txt which has problems to solve and the answers are like problem01.c
