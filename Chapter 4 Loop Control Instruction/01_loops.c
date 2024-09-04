@@ -2,9 +2,14 @@
 
 int main(){
     /*
-    Sometimes we want our program to execute few set of instructions over and over again. For example: printing 1 to 100, first 100 even numbers etc.
+    Loops:
+    A loop in programming is like doing something over and over again until you're satisfied. You get to pick what you want to do and how many times you want to do it. It's like telling the computer, "Keep doing this until I say stop!"
 
-    Hence, loops make it easy for a programmer to tell the computer that given set of instructions must be executed repeatedly
+    Using loops makes things easier because instead of writing the same instructions multiple times, you can just tell the computer to repeat those instructions for you.
+
+    Imagine you want to print numbers from 1 to 10, each on a new line.
+
+    Without using a loop, you'd have to write 10 separate cout statements like this:
 
     Types of Loops
     1. while loop
