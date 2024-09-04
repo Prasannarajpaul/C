@@ -1,0 +1,15 @@
+
+1. Write a progeam to print multiplication table of a given number n 
+2. Write a progeam to print multiplication table of 10 in reversed order
+3. A do while loop is executed:
+    a. Atleast once
+    b. Atleast twice
+    c. Atmost once
+4. What can be done using one type of loop can also be done by using the other two types of loops- true or false?
+5. Write a program to sum of first ten natural numbers using while loop
+6. Write a program to implement program 5 using 'for' and 'do-while' loop
+7. Write a program to calculate the sum of the numbers occuring in the multiplication table of 8. (Consider 10 steps)
+8. Write a program to calculate the factorial of a given number is prime or not, using a for loop
+9. Repeat 8 using while loop
+10. Write a program to check whether a given number is prime or not using loops
+11. Implement 10 using the other types of loops.
