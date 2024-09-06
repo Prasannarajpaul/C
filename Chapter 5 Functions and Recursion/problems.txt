@@ -1,0 +1,11 @@
+1. Write a program using the function to find the average of three numbers
+2. Write a function to convert Celsius temperature into Fahrenheit
+3. Write a function to calculate force of attraction on a body of mass 'm' exerted by earth. Consider g=9.8 m/s^2
+4. Write a program using recursion to calculate nth element of Fibonacci series
+5. What will be the following line produce in a C program
+    printf("%d %d %d\n", a, ++a, a++);
+6. Write a recursion function to calculate the sum of the first 'n' natural numbers
+7. Write a program using the function to print the following pattern (first n lines)
+    *
+    * * * 
+    * * * * *
