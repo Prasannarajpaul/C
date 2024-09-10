@@ -1,0 +1,7 @@
+1. Write a program to read three integers from a file
+2. Write a program to generate multiplication table of a given number in text format. Make sure that the file is readable and well formatted
+3. Write a program to read a text file character by character and write its content twice in separate file
+4. Take name and salary of two employees as input from the user and write them to a text file in the following format:
+    a. Name1, 3300
+    b. Name2, 7700
+5. Write a program to modify a file containing an integer to double its value
