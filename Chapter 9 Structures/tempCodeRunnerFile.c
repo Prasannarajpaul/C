@@ -1,1 +1,0 @@
-ptr->code, ptr->salary, ptr->name
