@@ -12,7 +12,7 @@ int main(){
     //It can be used for any data type but most use is to use for struct
     //using it for float as u dont like to type float always
 
-    typedef float fl;// Now float alias name is f
+    typedef float fl;// Now float alias name is fl
     //we can use f instead of float from now
 
     fl a = 12.5;
